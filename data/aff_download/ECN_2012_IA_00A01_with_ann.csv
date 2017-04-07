@@ -1,0 +1,294 @@
+GEO.id,GEO.id2,GEO.display-label,NAICS.id,NAICS.display-label,YEAR.id,ESTAB,RCPTOT,PAYANN,EMP
+Geographic identifier code,Id2,Geographic area name,2012 NAICS code,Meaning of 2012 NAICS code,Year,Number of establishments,"Value of sales, receipts, revenue, shipments, or business done ($1,000)","Annual payroll ($1,000)",Paid employees for pay period including March 12 (number)
+0400000US60,60,American Samoa,00,Total for all sectors,2012,377,1153632,114048,7070
+0400000US60,60,American Samoa,00,Total for all sectors,2007,616,1268048,132250,11247
+0400000US60,60,American Samoa,22,Utilities,2012,1,D,D,e
+0400000US60,60,American Samoa,22,Utilities,2007,1,D,D,e
+0400000US60,60,American Samoa,23,Construction,2012,20,31403,5431,432
+0400000US60,60,American Samoa,23,Construction,2007,29,23545,5276,450
+0400000US60,60,American Samoa,31-33,Manufacturing,2012,25,D,D,g
+0400000US60,60,American Samoa,31-33,Manufacturing,2007,59,522632,47428,4932
+0400000US60,60,American Samoa,42,Wholesale trade,2012,16,275152,4618,253
+0400000US60,60,American Samoa,42,Wholesale trade,2007,19,279528,4280,299
+0400000US60,60,American Samoa,44-45,Retail trade,2012,136,209954,17240,1435
+0400000US60,60,American Samoa,44-45,Retail trade,2007,199,229577,18905,1747
+0400000US60,60,American Samoa,48-49,Transportation and warehousing,2012,22,18780,3492,255
+0400000US60,60,American Samoa,48-49,Transportation and warehousing,2007,43,14237,4108,515
+0400000US60,60,American Samoa,51,Information,2012,8,15612,3055,148
+0400000US60,60,American Samoa,51,Information,2007,16,27934,4946,308
+0400000US60,60,American Samoa,52,Finance and insurance,2012,11,15327,3081,101
+0400000US60,60,American Samoa,52,Finance and insurance,2007,19,31570,7434,345
+0400000US60,60,American Samoa,53,Real estate and rental and leasing,2012,19,6391,848,67
+0400000US60,60,American Samoa,53,Real estate and rental and leasing,2007,19,4990,826,91
+0400000US60,60,American Samoa,54,"Professional, scientific, and technical services",2012,22,19535,5220,254
+0400000US60,60,American Samoa,54,"Professional, scientific, and technical services",2007,27,10151,2857,170
+0400000US60,60,American Samoa,55,Management of companies and enterprises,2012,4,902,562,22
+0400000US60,60,American Samoa,55,Management of companies and enterprises,2007,6,1081,764,24
+0400000US60,60,American Samoa,56,Administrative and support and waste management and remediation services,2012,15,5951,1459,151
+0400000US60,60,American Samoa,56,Administrative and support and waste management and remediation services,2007,29,8246,1454,246
+0400000US60,60,American Samoa,61,Educational services,2012,3,678,154,a
+0400000US60,60,American Samoa,61,Educational services,2007,5,3314,882,75
+0400000US60,60,American Samoa,62,Health care and social assistance,2012,12,10726,20827,707
+0400000US60,60,American Samoa,62,Health care and social assistance,2007,34,28652,16274,766
+0400000US60,60,American Samoa,71,"Arts, entertainment, and recreation",2012,3,378,55,a
+0400000US60,60,American Samoa,71,"Arts, entertainment, and recreation",2007,6,1908,341,43
+0400000US60,60,American Samoa,72,Accommodation and food services,2012,36,28924,6172,574
+0400000US60,60,American Samoa,72,Accommodation and food services,2007,58,25203,5124,661
+0400000US60,60,American Samoa,81,Other services (except public administration),2012,24,14177,1223,123
+0400000US60,60,American Samoa,81,Other services (except public administration),2007,47,8243,1707,201
+0400000US66,66,Guam,00,Total for all sectors,2012,3099,7736883,1287327,53579
+0400000US66,66,Guam,00,Total for all sectors,2007,3143,6244465,1100598,52394
+0400000US66,66,Guam,22,Utilities,2012,7,567874,47251,934
+0400000US66,66,Guam,22,Utilities,2007,10,406976,37890,933
+0400000US66,66,Guam,23,Construction,2012,320,750368,166511,6722
+0400000US66,66,Guam,23,Construction,2007,317,578869,121277,6011
+0400000US66,66,Guam,31-33,Manufacturing,2012,54,122589,28020,1282
+0400000US66,66,Guam,31-33,Manufacturing,2007,63,166790,38623,1495
+0400000US66,66,Guam,42,Wholesale trade,2012,177,982335,65863,2505
+0400000US66,66,Guam,42,Wholesale trade,2007,191,799845,55709,2394
+0400000US66,66,Guam,44-45,Retail trade,2012,630,1980280,183983,8879
+0400000US66,66,Guam,44-45,Retail trade,2007,660,1618402,149716,8219
+0400000US66,66,Guam,48-49,Transportation and warehousing,2012,85,196853,54580,1916
+0400000US66,66,Guam,48-49,Transportation and warehousing,2007,89,219946,71429,3057
+0400000US66,66,Guam,51,Information,2012,61,300969,58523,1722
+0400000US66,66,Guam,51,Information,2007,63,197574,43038,1429
+0400000US66,66,Guam,52,Finance and insurance,2012,127,679668,78913,1983
+0400000US66,66,Guam,52,Finance and insurance,2007,125,466024,71383,2036
+0400000US66,66,Guam,53,Real estate and rental and leasing,2012,265,226042,42688,1912
+0400000US66,66,Guam,53,Real estate and rental and leasing,2007,276,201565,35010,2007
+0400000US66,66,Guam,54,"Professional, scientific, and technical services",2012,241,294211,104528,2737
+0400000US66,66,Guam,54,"Professional, scientific, and technical services",2007,227,230912,77340,2217
+0400000US66,66,Guam,55,Management of companies and enterprises,2012,8,3732,7618,182
+0400000US66,66,Guam,55,Management of companies and enterprises,2007,7,7507,8376,157
+0400000US66,66,Guam,56,Administrative and support and waste management and remediation services,2012,156,171003,67669,3205
+0400000US66,66,Guam,56,Administrative and support and waste management and remediation services,2007,154,189912,71311,4102
+0400000US66,66,Guam,61,Educational services,2012,36,24788,8696,435
+0400000US66,66,Guam,61,Educational services,2007,39,11656,4643,300
+0400000US66,66,Guam,62,Health care and social assistance,2012,200,364966,119346,3475
+0400000US66,66,Guam,62,Health care and social assistance,2007,177,245079,102557,3090
+0400000US66,66,Guam,71,"Arts, entertainment, and recreation",2012,58,73151,19842,1074
+0400000US66,66,Guam,71,"Arts, entertainment, and recreation",2007,79,87581,19354,1213
+0400000US66,66,Guam,72,Accommodation and food services,2012,450,789844,189446,12575
+0400000US66,66,Guam,72,Accommodation and food services,2007,429,635286,155365,11477
+0400000US66,66,Guam,81,Other services (except public administration),2012,224,208209,43848,2038
+0400000US66,66,Guam,81,Other services (except public administration),2007,237,180543,37578,2254
+0400000US69,69,Commonwealth of the Northern Mariana Islands,00,Total for all sectors,2012,1339,1323742,208434,14215
+0400000US69,69,Commonwealth of the Northern Mariana Islands,00,Total for all sectors,2007,1191,1284188,246113,22622
+0400000US69,69,Commonwealth of the Northern Mariana Islands,21,"Mining, quarrying, and oil and gas extraction",2012,1,D,D,b
+0400000US69,69,Commonwealth of the Northern Mariana Islands,21,"Mining, quarrying, and oil and gas extraction",2007,1,D,D,a
+0400000US69,69,Commonwealth of the Northern Mariana Islands,22,Utilities,2012,6,D,D,e
+0400000US69,69,Commonwealth of the Northern Mariana Islands,22,Utilities,2007,4,D,D,e
+0400000US69,69,Commonwealth of the Northern Mariana Islands,23,Construction,2012,62,37230,7707,821
+0400000US69,69,Commonwealth of the Northern Mariana Islands,23,Construction,2007,50,31398,6844,528
+0400000US69,69,Commonwealth of the Northern Mariana Islands,31-33,Manufacturing,2012,39,20887,6700,592
+0400000US69,69,Commonwealth of the Northern Mariana Islands,31-33,Manufacturing,2007,59,189715,56565,7094
+0400000US69,69,Commonwealth of the Northern Mariana Islands,42,Wholesale trade,2012,74,246827,10746,716
+0400000US69,69,Commonwealth of the Northern Mariana Islands,42,Wholesale trade,2007,72,142929,10044,872
+0400000US69,69,Commonwealth of the Northern Mariana Islands,44-45,Retail trade,2012,284,314066,30662,2463
+0400000US69,69,Commonwealth of the Northern Mariana Islands,44-45,Retail trade,2007,255,271763,28578,2770
+0400000US69,69,Commonwealth of the Northern Mariana Islands,48-49,Transportation and warehousing,2012,26,46438,11387,641
+0400000US69,69,Commonwealth of the Northern Mariana Islands,48-49,Transportation and warehousing,2007,59,50178,15636,1105
+0400000US69,69,Commonwealth of the Northern Mariana Islands,51,Information,2012,20,25138,8384,323
+0400000US69,69,Commonwealth of the Northern Mariana Islands,51,Information,2007,24,66968,12884,604
+0400000US69,69,Commonwealth of the Northern Mariana Islands,52,Finance and insurance,2012,47,57560,8559,327
+0400000US69,69,Commonwealth of the Northern Mariana Islands,52,Finance and insurance,2007,60,97436,12769,536
+0400000US69,69,Commonwealth of the Northern Mariana Islands,53,Real estate and rental and leasing,2012,177,30675,8305,694
+0400000US69,69,Commonwealth of the Northern Mariana Islands,53,Real estate and rental and leasing,2007,109,30649,7854,637
+0400000US69,69,Commonwealth of the Northern Mariana Islands,54,"Professional, scientific, and technical services",2012,105,28703,9710,602
+0400000US69,69,Commonwealth of the Northern Mariana Islands,54,"Professional, scientific, and technical services",2007,87,24961,8685,404
+0400000US69,69,Commonwealth of the Northern Mariana Islands,55,Management of companies and enterprises,2012,4,D,D,b
+0400000US69,69,Commonwealth of the Northern Mariana Islands,55,Management of companies and enterprises,2007,5,D,D,b
+0400000US69,69,Commonwealth of the Northern Mariana Islands,56,Administrative and support and waste management and remediation services,2012,115,50913,17689,1396
+0400000US69,69,Commonwealth of the Northern Mariana Islands,56,Administrative and support and waste management and remediation services,2007,75,41185,15611,1358
+0400000US69,69,Commonwealth of the Northern Mariana Islands,61,Educational services,2012,43,4979,1582,133
+0400000US69,69,Commonwealth of the Northern Mariana Islands,61,Educational services,2007,44,3567,1215,136
+0400000US69,69,Commonwealth of the Northern Mariana Islands,62,Health care and social assistance,2012,36,41349,19656,725
+0400000US69,69,Commonwealth of the Northern Mariana Islands,62,Health care and social assistance,2007,32,13842,4427,267
+0400000US69,69,Commonwealth of the Northern Mariana Islands,71,"Arts, entertainment, and recreation",2012,43,37467,7160,497
+0400000US69,69,Commonwealth of the Northern Mariana Islands,71,"Arts, entertainment, and recreation",2007,48,22602,5854,580
+0400000US69,69,Commonwealth of the Northern Mariana Islands,72,Accommodation and food services,2012,142,179975,37761,3195
+0400000US69,69,Commonwealth of the Northern Mariana Islands,72,Accommodation and food services,2007,140,172682,44806,4772
+0400000US69,69,Commonwealth of the Northern Mariana Islands,81,Other services (except public administration),2012,115,20636,6517,576
+0400000US69,69,Commonwealth of the Northern Mariana Islands,81,Other services (except public administration),2007,67,17388,5190,547
+0400000US72,72,Puerto Rico,21,"Mining, quarrying, and oil and gas extraction",2012,51,83874,14671,701
+0400000US72,72,Puerto Rico,21,"Mining, quarrying, and oil and gas extraction",2007,47,127640,22016,955
+0400000US72,72,Puerto Rico,211,Oil and gas extraction,2012,1,D,D,a
+0400000US72,72,Puerto Rico,211,Oil and gas extraction,2007,1,D,D,a
+0400000US72,72,Puerto Rico,212,Mining (except oil and gas),2012,47,83148,14590,694
+0400000US72,72,Puerto Rico,212,Mining (except oil and gas),2007,43,125492,21497,930
+0400000US72,72,Puerto Rico,213,Support activities for mining,2012,3,354,62,a
+0400000US72,72,Puerto Rico,213,Support activities for mining,2007,3,D,D,b
+0400000US72,72,Puerto Rico,22,Utilities,2012,23,D,D,e
+0400000US72,72,Puerto Rico,22,Utilities,2007,19,640987,16550,335
+0400000US72,72,Puerto Rico,221,Utilities,2012,23,D,D,e
+0400000US72,72,Puerto Rico,221,Utilities,2007,19,640987,16550,335
+0400000US72,72,Puerto Rico,42,Wholesale trade,2012,1988,20184374,1120124,31462
+0400000US72,72,Puerto Rico,42,Wholesale trade,2007,2229,27540009,1218670,36107
+0400000US72,72,Puerto Rico,423,"Merchant wholesalers, durable goods",2012,1052,6047202,429682,11963
+0400000US72,72,Puerto Rico,423,"Merchant wholesalers, durable goods",2007,1149,7822433,461239,14688
+0400000US72,72,Puerto Rico,424,"Merchant wholesalers, nondurable goods",2012,855,14102611,681252,19200
+0400000US72,72,Puerto Rico,424,"Merchant wholesalers, nondurable goods",2007,972,19534676,745605,20896
+0400000US72,72,Puerto Rico,425,Wholesale electronic markets and agents and brokers,2012,81,34559,9190,299
+0400000US72,72,Puerto Rico,425,Wholesale electronic markets and agents and brokers,2007,108,182900,11826,524
+0400000US72,72,Puerto Rico,44-45,Retail trade,2012,9732,24957584,1995812,124887
+0400000US72,72,Puerto Rico,44-45,Retail trade,2007,11129,26192445,2026673,135099
+0400000US72,72,Puerto Rico,441,Motor vehicle and parts dealers,2012,1280,4439805,274625,13291
+0400000US72,72,Puerto Rico,441,Motor vehicle and parts dealers,2007,1383,4207946,271979,13541
+0400000US72,72,Puerto Rico,442,Furniture and home furnishings stores,2012,328,473371,44796,2318
+0400000US72,72,Puerto Rico,442,Furniture and home furnishings stores,2007,465,735787,74036,4543
+0400000US72,72,Puerto Rico,443,Electronics and appliance stores,2012,442,487301,58680,3201
+0400000US72,72,Puerto Rico,443,Electronics and appliance stores,2007,435,730931,71585,3951
+0400000US72,72,Puerto Rico,444,Building material and garden equipment and supplies dealers,2012,914,1293762,152279,8120
+0400000US72,72,Puerto Rico,444,Building material and garden equipment and supplies dealers,2007,1133,1923257,163136,9962
+0400000US72,72,Puerto Rico,445,Food and beverage stores,2012,1143,4238505,288055,22737
+0400000US72,72,Puerto Rico,445,Food and beverage stores,2007,1433,4492695,332540,28371
+0400000US72,72,Puerto Rico,446,Health and personal care stores,2012,1447,3909171,340567,15648
+0400000US72,72,Puerto Rico,446,Health and personal care stores,2007,1431,3658055,292589,14871
+0400000US72,72,Puerto Rico,447,Gasoline stations,2012,775,2769444,69953,5078
+0400000US72,72,Puerto Rico,447,Gasoline stations,2007,934,2490679,63289,5911
+0400000US72,72,Puerto Rico,448,Clothing and clothing accessories stores,2012,2020,2515675,272524,22485
+0400000US72,72,Puerto Rico,448,Clothing and clothing accessories stores,2007,2182,2223920,238233,19924
+0400000US72,72,Puerto Rico,451,"Sporting goods, hobby, musical instrument, and book stores",2012,274,140203,26990,1601
+0400000US72,72,Puerto Rico,451,"Sporting goods, hobby, musical instrument, and book stores",2007,454,348612,32160,2540
+0400000US72,72,Puerto Rico,452,General merchandise stores,2012,339,4024841,364110,25199
+0400000US72,72,Puerto Rico,452,General merchandise stores,2007,439,4643343,402721,26067
+0400000US72,72,Puerto Rico,453,Miscellaneous store retailers,2012,556,440466,74438,3745
+0400000US72,72,Puerto Rico,453,Miscellaneous store retailers,2007,620,506456,56264,3812
+0400000US72,72,Puerto Rico,454,Nonstore retailers,2012,214,225039,28794,1463
+0400000US72,72,Puerto Rico,454,Nonstore retailers,2007,220,230761,28141,1608
+0400000US72,72,Puerto Rico,48-49,Transportation and warehousing,2012,918,1918575,356088,13716
+0400000US72,72,Puerto Rico,48-49,Transportation and warehousing,2007,1041,2167349,340297,14710
+0400000US72,72,Puerto Rico,481,Air transportation,2012,13,13882,4271,140
+0400000US72,72,Puerto Rico,481,Air transportation,2007,44,310710,54744,1654
+0400000US72,72,Puerto Rico,483,Water transportation,2012,16,92260,34046,890
+0400000US72,72,Puerto Rico,483,Water transportation,2007,14,180995,23698,363
+0400000US72,72,Puerto Rico,484,Truck transportation,2012,388,292716,59427,2864
+0400000US72,72,Puerto Rico,484,Truck transportation,2007,505,409584,68691,3848
+0400000US72,72,Puerto Rico,485,Transit and ground passenger transportation,2012,189,142113,40582,2071
+0400000US72,72,Puerto Rico,485,Transit and ground passenger transportation,2007,170,117607,24414,1452
+0400000US72,72,Puerto Rico,486,Pipeline transportation,2012,11,4853,1183,48
+0400000US72,72,Puerto Rico,486,Pipeline transportation,2007,12,16270,3161,119
+0400000US72,72,Puerto Rico,487,Scenic and sightseeing transportation,2012,16,14214,2816,303
+0400000US72,72,Puerto Rico,487,Scenic and sightseeing transportation,2007,14,43217,5984,295
+0400000US72,72,Puerto Rico,488,Support activities for transportation,2012,169,432074,110789,3875
+0400000US72,72,Puerto Rico,488,Support activities for transportation,2007,168,592628,100689,4456
+0400000US72,72,Puerto Rico,492,Couriers and messengers,2012,52,681492,55455,1494
+0400000US72,72,Puerto Rico,492,Couriers and messengers,2007,47,183076,25388,995
+0400000US72,72,Puerto Rico,493,Warehousing and storage,2012,64,244969,47518,2030
+0400000US72,72,Puerto Rico,493,Warehousing and storage,2007,67,313261,33526,1525
+0400000US72,72,Puerto Rico,51,Information,2012,727,12342587,542569,22610
+0400000US72,72,Puerto Rico,51,Information,2007,642,11383571,807673,22345
+0400000US72,72,Puerto Rico,511,Publishing industries (except internet),2012,97,D,D,g
+0400000US72,72,Puerto Rico,511,Publishing industries (except internet),2007,130,D,D,h
+0400000US72,72,Puerto Rico,512,Motion picture and sound recording industries,2012,83,133025,23769,1830
+0400000US72,72,Puerto Rico,512,Motion picture and sound recording industries,2007,105,157019,22661,2370
+0400000US72,72,Puerto Rico,515,Broadcasting (except internet),2012,96,266401,80182,1903
+0400000US72,72,Puerto Rico,515,Broadcasting (except internet),2007,81,239815,79826,2119
+0400000US72,72,Puerto Rico,517,Telecommunications,2012,284,2378200,237922,10725
+0400000US72,72,Puerto Rico,517,Telecommunications,2007,219,3270263,456798,11527
+0400000US72,72,Puerto Rico,518,"Data processing, hosting, and related services",2012,104,491120,81420,5246
+0400000US72,72,Puerto Rico,518,"Data processing, hosting, and related services",2007,46,291547,95461,2343
+0400000US72,72,Puerto Rico,519,Other information services,2012,63,100225,30154,895
+0400000US72,72,Puerto Rico,519,Other information services,2007,61,52461,14037,562
+0400000US72,72,Puerto Rico,52,Finance and insurance,2012,1791,14644495,1172737,30950
+0400000US72,72,Puerto Rico,52,Finance and insurance,2007,2202,26835131,1495772,41021
+0400000US72,72,Puerto Rico,522,Credit intermediation and related activities,2012,1044,6164175,593308,17609
+0400000US72,72,Puerto Rico,522,Credit intermediation and related activities,2007,1436,18998723,922047,26867
+0400000US72,72,Puerto Rico,523,"Securities, commodity contracts, and other financial investments and related activities",2012,139,326759,121020,1715
+0400000US72,72,Puerto Rico,523,"Securities, commodity contracts, and other financial investments and related activities",2007,181,598108,106304,1652
+0400000US72,72,Puerto Rico,524,Insurance carriers and related activities,2012,608,8153561,458408,11625
+0400000US72,72,Puerto Rico,524,Insurance carriers and related activities,2007,585,7238299,467422,12502
+0400000US72,72,Puerto Rico,53,Real estate and rental and leasing,2012,1592,1465763,262402,11310
+0400000US72,72,Puerto Rico,53,Real estate and rental and leasing,2007,1803,3696901,298242,14501
+0400000US72,72,Puerto Rico,531,Real estate,2012,1104,1008313,177704,7480
+0400000US72,72,Puerto Rico,531,Real estate,2007,1199,1844501,188384,9042
+0400000US72,72,Puerto Rico,532,Rental and leasing services,2012,483,450641,83158,3783
+0400000US72,72,Puerto Rico,532,Rental and leasing services,2007,593,1840272,108058,5376
+0400000US72,72,Puerto Rico,533,Lessors of nonfinancial intangible assets (except copyrighted works),2012,5,6809,1540,47
+0400000US72,72,Puerto Rico,533,Lessors of nonfinancial intangible assets (except copyrighted works),2007,11,12128,1799,82
+0400000US72,72,Puerto Rico,54,"Professional, scientific, and technical services",2012,4044,3145282,1060800,49750
+0400000US72,72,Puerto Rico,54,"Professional, scientific, and technical services",2007,4277,4324761,978640,32801
+0400000US72,72,Puerto Rico,541,"Professional, scientific, and technical services",2012,4044,3145282,1060800,49750
+0400000US72,72,Puerto Rico,541,"Professional, scientific, and technical services",2007,4277,4324761,978640,32801
+0400000US72,72,Puerto Rico,55,Management of companies and enterprises,2012,88,835387,182603,3931
+0400000US72,72,Puerto Rico,55,Management of companies and enterprises,2007,62,394413,110902,2338
+0400000US72,72,Puerto Rico,56,Administrative and support and waste management and remediation services,2012,1644,2948546,1447914,85049
+0400000US72,72,Puerto Rico,56,Administrative and support and waste management and remediation services,2007,1774,3178504,1191352,76488
+0400000US72,72,Puerto Rico,561,Administrative and support services,2012,1510,2592482,1369909,81948
+0400000US72,72,Puerto Rico,561,Administrative and support services,2007,1645,2687821,1108727,72838
+0400000US72,72,Puerto Rico,562,Waste management and remediation services,2012,134,356063,78006,3101
+0400000US72,72,Puerto Rico,562,Waste management and remediation services,2007,129,490684,82625,3651
+0400000US72,72,Puerto Rico,61,Educational services,2012,440,462482,160972,9809
+0400000US72,72,Puerto Rico,61,Educational services,2007,336,363524,95293,5552
+0400000US72,72,Puerto Rico,611,Educational services,2012,440,462482,160972,9809
+0400000US72,72,Puerto Rico,611,Educational services,2007,336,363524,95293,5552
+0400000US72,72,Puerto Rico,62,Health care and social assistance,2012,7014,6098340,1842086,80913
+0400000US72,72,Puerto Rico,62,Health care and social assistance,2007,6764,6663318,1567142,81337
+0400000US72,72,Puerto Rico,621,Ambulatory health care services,2012,5924,2972294,792796,32623
+0400000US72,72,Puerto Rico,621,Ambulatory health care services,2007,5602,3667953,619880,30597
+0400000US72,72,Puerto Rico,622,Hospitals,2012,130,2824703,842036,32342
+0400000US72,72,Puerto Rico,622,Hospitals,2007,85,2332161,727214,32368
+0400000US72,72,Puerto Rico,623,Nursing and residential care facilities,2012,380,99592,63578,4762
+0400000US72,72,Puerto Rico,623,Nursing and residential care facilities,2007,409,251253,72535,5365
+0400000US72,72,Puerto Rico,624,Social assistance,2012,580,201753,143676,11189
+0400000US72,72,Puerto Rico,624,Social assistance,2007,668,411952,147513,13009
+0400000US72,72,Puerto Rico,71,"Arts, entertainment, and recreation",2012,341,187328,62745,3024
+0400000US72,72,Puerto Rico,71,"Arts, entertainment, and recreation",2007,434,370846,67040,3873
+0400000US72,72,Puerto Rico,711,"Performing arts, spectator sports, and related industries",2012,146,70045,25104,924
+0400000US72,72,Puerto Rico,711,"Performing arts, spectator sports, and related industries",2007,167,216643,31410,1481
+0400000US72,72,Puerto Rico,712,"Museums, historical sites, and similar institutions",2012,14,12023,6492,290
+0400000US72,72,Puerto Rico,712,"Museums, historical sites, and similar institutions",2007,13,16152,6185,278
+0400000US72,72,Puerto Rico,713,"Amusement, gambling, and recreation industries",2012,181,105259,31149,1810
+0400000US72,72,Puerto Rico,713,"Amusement, gambling, and recreation industries",2007,254,138050,29444,2114
+0400000US72,72,Puerto Rico,72,Accommodation and food services,2012,4084,4256139,1135032,74741
+0400000US72,72,Puerto Rico,72,Accommodation and food services,2007,4152,3989750,934944,75748
+0400000US72,72,Puerto Rico,721,Accommodation,2012,253,1275998,458366,15965
+0400000US72,72,Puerto Rico,721,Accommodation,2007,309,1195371,332053,17416
+0400000US72,72,Puerto Rico,722,Food services and drinking places,2012,3831,2980141,676667,58776
+0400000US72,72,Puerto Rico,722,Food services and drinking places,2007,3843,2794379,602892,58332
+0400000US72,72,Puerto Rico,81,Other services (except public administration),2012,2070,750512,224347,16144
+0400000US72,72,Puerto Rico,81,Other services (except public administration),2007,2807,1285337,276820,16833
+0400000US72,72,Puerto Rico,811,Repair and maintenance,2012,1158,402365,115857,9755
+0400000US72,72,Puerto Rico,811,Repair and maintenance,2007,1345,571706,124022,7292
+0400000US72,72,Puerto Rico,812,Personal and laundry services,2012,813,293020,87450,5425
+0400000US72,72,Puerto Rico,812,Personal and laundry services,2007,961,371589,92322,6767
+0400000US72,72,Puerto Rico,813,"Religious, grantmaking, civic, professional, and similar organizations",2012,99,55128,21040,964
+0400000US72,72,Puerto Rico,813,"Religious, grantmaking, civic, professional, and similar organizations",2007,501,342042,60477,2774
+0400000US78,78,United States Virgin Islands,00,Total for all sectors,2012,2414,6830529,1129260,32465
+0400000US78,78,United States Virgin Islands,00,Total for all sectors,2007,2583,19478709,1084599,35300
+0400000US78,78,United States Virgin Islands,21,"Mining, quarrying, and oil and gas extraction",2012,2,D,D,a
+0400000US78,78,United States Virgin Islands,21,"Mining, quarrying, and oil and gas extraction",2007,4,5934,1717,39
+0400000US78,78,United States Virgin Islands,22,Utilities,2012,11,366880,49438,807
+0400000US78,78,United States Virgin Islands,22,Utilities,2007,7,D,D,f
+0400000US78,78,United States Virgin Islands,23,Construction,2012,161,237929,57772,1729
+0400000US78,78,United States Virgin Islands,23,Construction,2007,195,351615,115169,3388
+0400000US78,78,United States Virgin Islands,31-33,Manufacturing,2012,57,1962639,167907,1984
+0400000US78,78,United States Virgin Islands,31-33,Manufacturing,2007,70,D,D,g
+0400000US78,78,United States Virgin Islands,42,Wholesale trade,2012,64,221006,24783,686
+0400000US78,78,United States Virgin Islands,42,Wholesale trade,2007,58,288141,24641,797
+0400000US78,78,United States Virgin Islands,44-45,Retail trade,2012,560,1318244,142445,6596
+0400000US78,78,United States Virgin Islands,44-45,Retail trade,2007,641,1397381,146149,6773
+0400000US78,78,United States Virgin Islands,48-49,Transportation and warehousing,2012,101,333476,57460,1682
+0400000US78,78,United States Virgin Islands,48-49,Transportation and warehousing,2007,103,270138,49057,1571
+0400000US78,78,United States Virgin Islands,51,Information,2012,46,155438,44709,918
+0400000US78,78,United States Virgin Islands,51,Information,2007,45,175883,36408,892
+0400000US78,78,United States Virgin Islands,52,Finance and insurance,2012,107,492552,61694,1156
+0400000US78,78,United States Virgin Islands,52,Finance and insurance,2007,99,525669,66823,1555
+0400000US78,78,United States Virgin Islands,53,Real estate and rental and leasing,2012,180,168337,32677,961
+0400000US78,78,United States Virgin Islands,53,Real estate and rental and leasing,2007,219,229015,44571,1296
+0400000US78,78,United States Virgin Islands,54,"Professional, scientific, and technical services",2012,232,306886,95193,2108
+0400000US78,78,United States Virgin Islands,54,"Professional, scientific, and technical services",2007,257,284353,60050,1370
+0400000US78,78,United States Virgin Islands,55,Management of companies and enterprises,2012,5,4725,2481,68
+0400000US78,78,United States Virgin Islands,55,Management of companies and enterprises,2007,8,5935,2383,83
+0400000US78,78,United States Virgin Islands,56,Administrative and support and waste management and remediation services,2012,146,174834,53476,1904
+0400000US78,78,United States Virgin Islands,56,Administrative and support and waste management and remediation services,2007,158,211080,62043,2498
+0400000US78,78,United States Virgin Islands,61,Educational services,2012,17,3611,976,65
+0400000US78,78,United States Virgin Islands,61,Educational services,2007,15,3804,821,57
+0400000US78,78,United States Virgin Islands,62,Health care and social assistance,2012,236,313883,102531,2639
+0400000US78,78,United States Virgin Islands,62,Health care and social assistance,2007,234,279681,58480,2624
+0400000US78,78,United States Virgin Islands,71,"Arts, entertainment, and recreation",2012,50,76348,16488,743
+0400000US78,78,United States Virgin Islands,71,"Arts, entertainment, and recreation",2007,52,143356,23708,1001
+0400000US78,78,United States Virgin Islands,72,Accommodation and food services,2012,279,539442,160542,6864
+0400000US78,78,United States Virgin Islands,72,Accommodation and food services,2007,255,460532,129635,6146
+0400000US78,78,United States Virgin Islands,81,Other services (except public administration),2012,160,152599,58256,1539
+0400000US78,78,United States Virgin Islands,81,Other services (except public administration),2007,163,191842,84535,2160

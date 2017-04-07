@@ -1,0 +1,95 @@
+IA1200A01
+Island Areas: Geographic Area Series: Comparative Statistics by Kind of Business for American Samoa, Commonwealth of the Northern Mariana Islands, Guam, Puerto Rico, and U.S. Virgin Islands: 2012 and 2007
+
+Release Date : 09/29/2015
+
+Note: Includes only establishments or firms with payroll. Data based on the 2012 and 2007 Economic Census of Island Areas. Figures may not add due to rounding. For information on confidentiality protection, sampling error, nonsampling, and definitions, see Methodology.
+
+Note: Data for 2012 are based on the 2012 NAICS Manual, whereas data for 2007 were based on the 2007 NAICS Manual.
+
+ 
+  
+  Table Name 
+  Island Areas: Geographic Area Series: Comparative Statistics by Kind of Business for American Samoa, Commonwealth of the Northern Mariana Islands, Guam, Puerto Rico, and U.S. Virgin Islands: 2012 and 2007 
+  
+  
+  Release Schedule 
+  The data in this file are scheduled for release on a flow basis beginning April 2014 through September 2015. 
+  
+  
+  Key Table Information 
+  Refer to Survey Methodology for additional information. 
+  
+  
+  Universe 
+  The universe includes all establishments with payroll at any time during 2012 and 2007, and classified in NAICS sectors 21-81, with exceptions for: 
+    
+    American Samoa (Includes establishments without annual payroll only for the 2007 census.) 
+    Puerto Rico (Excludes NAICS sectors 23 and 31-33.)  
+    Data for 2012 are based on the 2012 NAICS Manual, whereas data for 2007 were based on the 2007 NAICS Manual. 
+  
+  
+  Geography Coverage 
+   The data are shown at the state-equivalent level for: 
+    
+     American Samoa 
+    Guam 
+    Northern Mariana Islands 
+    Puerto Rico 
+    U.S. Virgin Islands 
+    
+  
+  
+  Industry Coverage 
+  For American Samoa, Guam, Northern Mariana Islands, and the U.S. Virgin Islands, the data for 2012 and 2007 are shown for: 
+    
+    Total of all sectors (00) level 
+    Selected 2-digit NAICS code level 
+    For Puerto Rico, the data for 2012 and 2007 are shown for: 
+    
+    Wholesale, retail, and selected kinds of business 
+    Selected 2- through 3-digit NAICS code levels 
+    
+ 
+  
+  Data Items and Other Identifying Records 
+  This file contains data for: 
+    
+    Number of establishments 
+    Sales, receipts, revenue, or shipments 
+    Annual payroll 
+    Number of paid employees 
+    
+  
+  
+  Sort Order 
+  The data are presented in ascending NAICS code by year sequence. 
+  
+  
+  FTP Download 
+  Download the entire table athttp://www2.census.gov/econ2012/IA/sector00/IA1200A01.zip 
+  
+  
+  Contact Information 
+  U.S. Census Bureau, Economy-Wide Statistics Division Island Areas and Survey of Business Owners Branch Tel: (301)763-3314  ewd.outreach@census.gov 
+  
+
+
+D	Withheld to avoid disclosing data for individual companies; data are included in higher level totals
+
+e	250 to 499 employees
+
+g	1,000 to 2,499 employees
+
+a	0 to 19 employees
+
+b	20 to 99 employees
+
+h	2,500 to 4,999 employees
+
+f	500 to 999 employees
+
+Source: U.S. Census Bureau, 2012 and 2007 Economic Census of Island Areas
+
+Symbols:D - Withheld to avoid disclosing data for individual companies; data are included in higher level totalsN - Not available or not comparableFor a complete list of all economic programs symbols, see the Symbols Glossary
+
